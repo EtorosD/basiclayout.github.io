@@ -1,0 +1,118 @@
+header {
+    background-color: blue;
+    text-align: center;
+    height: 50px;
+}
+
+nav {
+    background-color: aqua;
+    text-align: center;
+}
+
+main {
+    background-color: yellow;
+    text-align: center;
+    height: 700px;
+    width: auto;
+}
+
+aside {
+    background-color: red;
+    float: right;
+    text-align: center;
+    margin: 0%;
+    height: 419px;
+
+}
+
+ul {
+    list-style-position: inside;
+    justify-content: left;
+}
+
+ol {
+    list-style-position: inside;
+    justify-content: left;
+    
+}
+
+.p1 {
+    text-align: left;
+    margin: 0%;
+    padding-top: 0;
+}
+
+.p2 {
+    text-indent: 45px; 
+    margin-bottom: 0%;
+    margin-top: 0;
+
+}
+.section1 {
+    background-color: rgb(216, 158, 209);
+    float: left;
+    text-align: center;
+    width: 1332px;
+    height: 400px;
+}
+
+.section2 {
+    background-color: grey;
+    height: 250px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.section3 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+label {
+    width: 650px;
+    display: inline-block;
+    text-align: right;
+}
+
+.article1 {
+    background-color: green;
+    height: 250px;
+}
+
+
+.article2 {
+    background-color: green;
+    height: 100px;
+}
+
+.beagle {
+    float: left;
+    width: 150px;
+    height: auto;
+}
+
+.article3 {
+    background-color: green;
+    height: 100px;
+}
+
+.golden {
+    float: right;
+    width: 133px;
+    height: auto;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 150px;
+}
