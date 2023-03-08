@@ -21,6 +21,7 @@ aside {
     float: right;
     text-align: center;
     margin: 0%;
+    width: 12%;
     height: 419px;
 
 }
@@ -52,7 +53,7 @@ ol {
     background-color: rgb(216, 158, 209);
     float: left;
     text-align: center;
-    width: 1332px;
+    width: 88%;
     height: 400px;
 }
 
